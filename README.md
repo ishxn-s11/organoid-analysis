@@ -6,7 +6,7 @@
 
 | Raw nuclei (z-slice) | Segmented |
 |:---:|:---:|
-| ![raw](https://raw.githubusercontent.com/ishxn-s11/organoid-analysis/main//imgs/zerog_spheroid.png) | ![segmented](https://raw.githubusercontent.com/ishxn-s11/organoid-analysis/main/imgs/zerog_segmented.png) |
+| ![](https://raw.githubusercontent.com/ishxn-s11/organoid-analysis/main//imgs/zerog_spheroid.png) | ![](https://raw.githubusercontent.com/ishxn-s11/organoid-analysis/main/imgs/zerog_segmented.png) |
 ## Features
 
 - **3D segmentation** — Cellpose-based nuclei and whole-cell detection on multi-channel confocal stacks
