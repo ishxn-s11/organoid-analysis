@@ -2,12 +2,11 @@
 
 3D organoid and spheroid image analysis — from raw confocal stacks to single-cell morphology, spatial topology, and statistical comparisons.
 
-<img src="https://img.shields.io/badge/python-3.10%2B-blue"> <img src="https://img.shields.io/badge/segmentation-cellpose-green">
+![Python](https://img.shields.io/badge/python-3.10%2B-blue) ![Cellpose](https://img.shields.io/badge/segmentation-cellpose-green)
 
 | Raw nuclei (z-slice) | Segmented |
 |:---:|:---:|
-<img src="./imgs/zerog_spheroid.png" | <img src="./imgs/zerog_segmented.png" |
-
+| ![raw](https://raw.githubusercontent.com/ishxn-s11/organoid-analysis/main//imgs/zerog_spheroid.png) | ![segmented](https://raw.githubusercontent.com/ishxn-s11/organoid-analysis/main/imgs/zerog_segmented.png) |
 ## Features
 
 - **3D segmentation** — Cellpose-based nuclei and whole-cell detection on multi-channel confocal stacks
